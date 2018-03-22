@@ -1,0 +1,15 @@
+{
+  "name": "new-cloud-test-frontend",
+  "version": "1.0.0",
+  "entry": [
+    "./src/index.js"
+  ],
+  "externals": {
+    "jquery": "window.jQuery",
+    "jQuery": "window.jQuery"
+  },
+  "scripts": {
+    "dev": "wxb server",
+    "build": "rm -rf dist && wxb build"
+  }
+}
