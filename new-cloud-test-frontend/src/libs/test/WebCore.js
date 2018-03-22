@@ -1,0 +1,1 @@
+export default require('./../../../../new-cloud-ui-component/src/web-core');
