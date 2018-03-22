@@ -9,3 +9,4 @@
 3.运行命令：wxb server
 
 4.运行注意：wxb server -p {端口号：如-8888}-------->wxb server -p 8888
+
