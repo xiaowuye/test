@@ -1,0 +1,31 @@
+.ui-dialog-title {
+  cursor: move !important;
+}
+.dialog-blue .ui-dialog-close {
+  padding: 0 4px;
+  font-size: 21px;
+  line-height: 1;
+}
+.dialog-blue .ui-dialog-title {
+  line-height: 51px;
+  color: #F0F0EE;
+  text-align: center;
+  background: #508CEE;
+  font-size: 25px;
+}
+.dialog-orange .ui-dialog-close {
+  padding: 0 4px;
+  font-size: 21px;
+  line-height: 2;
+}
+.dialog-orange .ui-dialog-title {
+  height: 38px;
+  line-height: 38px;
+  color: #F0F0EE;
+  text-align: center;
+  background: #F7A200;
+  font-size: 25px;
+}
+.ui-popup-modal .ui-dialog {
+  box-shadow: none !important;
+}
